@@ -1,0 +1,1468 @@
+[
+    {
+        "families": [
+            {
+                "proposals": [
+                    {
+                        "title": "Afficher d’ici 2024 un score carbone sur les produits de consommation et les services, calculé par un organisme indépendant",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen",
+                        "summary": "Développer puis mettre en place un score carbone sur tous les produits de consommation et les services.",
+                        "code": "C1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/creer-une-obligation-daffichage-de-limpact-carbone-des-produits-et-services/"
+                    },
+                    {
+                        "title": "Affichage obligatoire des émissions de gaz à effet de serre dans les commerces et les publicités",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen",
+                        "summary": "Rendre obligatoire l’affichage des émissions de gaz à effet de serre dans les commerces et lieux de consommation ainsi que dans les publicités pour les marques.",
+                        "code": "C1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/creer-une-obligation-daffichage-de-limpact-carbone-des-produits-et-services/"
+                    }
+                ],
+                "name": "Affichage de l'impact carbone"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Interdire la publicité pour les produits les plus polluants",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Interdire de manière efficace et opérante la publicité des produits les plus émetteurs de gaz à effet de serre, sur tous les supports publicitaires.",
+                        "code": "C2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reguler-la-publicite-pour-reduire-les-incitations-a-la-surconsommation/"
+                    },
+                    {
+                        "title": "Interdire les pratiques publicitaires incitant à la consommation non-choisie et imposer aux navigateurs internet un bloqueur de publicité par défaut",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Réguler la publicité pour limiter fortement les incitations quotidiennes et non-choisies à la consommation.\n\n- Interdire les panneaux publicitaires dans les espaces publics extérieurs, hors information locale et culturelle ainsi que les panneaux indiquant la localisation d’un lieu de distribution\n- Interdire les écrans vidéo publicitaires dans l’espace public, les transports en commun et dans les points de vente\n- Imposer aux navigateurs internet un bloqueur de publicité par défaut\n- Interdire le dépôt des publicités dans les boîtes à lettres à partir de janvier 2021\n- Interdire les avions publicitaires\n- Interdire les publicités incitant à des modes de consommation excessifs ou au gaspillage d’énergie et des ressources naturelles (vente par lot, réduction de prix, soldes)\n- Interdire la distribution automatique d’échantillons",
+                        "code": "C2.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reguler-la-publicite-pour-reduire-les-incitations-a-la-surconsommation/"
+                    },
+                    {
+                        "title": "Instaurer une mention obligatoire incitant à moins consommer dans les publicités et la vente en ligne",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen",
+                        "summary": "Mettre en place des mentions pour inciter à moins consommer\n\nRendre obligatoire l’inscription d’une mention du type _« En avez-vous vraiment besoin ? La surconsommation nuit à la planète »_ dans toutes les publicités et lors des achats en ligne",
+                        "code": "C2.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reguler-la-publicite-pour-reduire-les-incitations-a-la-surconsommation/"
+                    }
+                ],
+                "name": "Publicité"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Imposer une part croissante de vente en vrac dans tous les magasins",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Mettre en place progressivement une obligation de l’implantation du vrac dans tous les magasins et l’imposition d’un pourcentage aux centrales d’achat.",
+                        "code": "C3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-le-suremballage-et-lutilisation-du-plastique-a-usage-unique-en-developpant-le-vrac-et-les-consignes-dans-les-lieux-de-distribution/"
+                    }
+                ],
+                "name": "Suremballage"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Généraliser l’éducation à l’environnement et au développement durable à l’école, avec la création d’une nouvelle matière scolaire",
+                        "target": "L'Etat",
+                        "method": "Pédagogie et information",
+                        "impact": "Inconnu",
+                        "summary": "Modifier le code de l’éducation pour une généralisation de l’éducation à l’environnement et au développement durable dans le modèle scolaire français.",
+                        "code": "C5.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/faire-de-leducation-de-la-formation-et-de-la-sensibilisation-des-leviers-daction-de-la-consommation-responsable/"
+                    },
+                    {
+                        "title": "Renforcer les modalités d’éducation à l’environnement et au développement durable",
+                        "target": "L'Etat",
+                        "method": "Pédagogie et information",
+                        "impact": "Inconnu",
+                        "summary": "Créer au sein des établissements scolaires un comité dédié à l’éducation à l’environnement et au développement durable (EEDD), ainsi qu'une équipe d'enseignants chargés de coordonner cet enseignement.\n\nCréer une nouvelle matière, appelée par exemple _« écologie »_, enseignée dans un premier temps par les profs de SVT.",
+                        "code": "C5.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/faire-de-leducation-de-la-formation-et-de-la-sensibilisation-des-leviers-daction-de-la-consommation-responsable/"
+                    },
+                    {
+                        "title": "Sensibiliser la population à l'urgence climatique (spots vidéo, formations, charte pour les élus…)",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Inconnu",
+                        "summary": "Sensibiliser l'ensemble de la population française en reliant compréhension de l’urgence climatique et passage à l’action :\n\n- diffuser des spots de sensibilisation mettant en action des acteurs du quotidien\n- présenter les propositions de la Convention climat sous forme de spots vidéo diffusés à la télévision\n- promouvoir le Passeport bénévole\n- prendre en compte le développement durable dans l’ensemble des formations supérieures\n- rendre obligatoire des formations continues pour les personnes en charge de définir et d’appliquer les politiques environnementales (fonctionnaires, élus, magistrats…)\n- demander aux élus de signer une charte d'engagement (incluant la Charte de l’environnement présente dans la Constitution)",
+                        "code": "C5.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/faire-de-leducation-de-la-formation-et-de-la-sensibilisation-des-leviers-daction-de-la-consommation-responsable/"
+                    }
+                ],
+                "name": "Education"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Renforcer les pouvoirs de la justice et de la police environnementale (parquet et juges spécialisés, formations, police environnementale locale)",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Inconnu",
+                        "summary": "Contrôler et sanctionner plus efficacement et rapidement les atteintes aux règles en matière environnementale :\n\n- Création d’un parquet spécialisé sur les questions environnementales, chargé de coordonner l’action des sections environnementales créées dans chaque Cour d’appel\n- Création d’un juge spécialisé aux affaires environnementales\n- Renforcement de la formation sur l’environnement de tous les juges\n- Créer au niveau local un pouvoir de police judiciaire spécialisé dans les questions environnementales sur l’ensemble du territoire français pour constater les infractions au droit pénal environnemental et en recueillir les preuves. Ou, à défaut, renforcer les pouvoirs de la gendarmerie en matière d'infractions environnementales\n- Inscription dans le code de l’environnement, voire dans le code pénal, des engagements pris dans le cadre de l’Accord de Paris.",
+                        "code": "C6.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/assurer-une-meilleure-application-des-politiques-publiques-et-les-evaluer-pour-les-rendre-plus-efficaces/"
+                    },
+                    {
+                        "title": "Créer un organisme indépendant pour évaluer les politiques publiques environnementales",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Inconnu",
+                        "summary": "Renforcer et centraliser l’évaluation et le suivi des politiques publiques en matière environnementale. Créer un organisme indépendant chargé d’évaluer, de coordonner l’évaluation et de suivre l’application des politiques publiques en matière environnementale, de nourrir les études d’impact.",
+                        "code": "C6.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/assurer-une-meilleure-application-des-politiques-publiques-et-les-evaluer-pour-les-rendre-plus-efficaces/"
+                    }
+                ],
+                "name": "Suivi des politiques publiques environnementales"
+            }
+        ],
+        "name": "La consommation"
+    },
+    {
+        "families": [
+            {
+                "proposals": [
+                    {
+                        "title": "Mettre en place un système de consigne de verre généralisé en 2025",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Mise en place progressive d’un système de consigne de verre (lavable et réutilisable) jusqu’à une mise en place généralisée en 2025.",
+                        "code": "C3.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-le-suremballage-et-lutilisation-du-plastique-a-usage-unique-en-developpant-le-vrac-et-les-consignes-dans-les-lieux-de-distribution/"
+                    },
+                    {
+                        "title": "Favoriser le développement des emballages biosourcés compostables",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Favoriser le développement des emballages biosourcés compostables pour assurer la transition avant la fin de l’emballage plastique à usage unique.",
+                        "code": "C3.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-le-suremballage-et-lutilisation-du-plastique-a-usage-unique-en-developpant-le-vrac-et-les-consignes-dans-les-lieux-de-distribution/"
+                    },
+                    {
+                        "title": "Supprimer et remplacer une grande partie de la taxe d'enlèvement des ordures ménagères",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Remplacer une part significative de la taxe d'enlèvement des ordures ménagères (TEOM) par des modalités plus justes et favorisant les comportements écoresponsables.",
+                        "code": "C3.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-le-suremballage-et-lutilisation-du-plastique-a-usage-unique-en-developpant-le-vrac-et-les-consignes-dans-les-lieux-de-distribution/"
+                    }
+                ],
+                "name": "Suremballage"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Mettre en place une prime à l'investissement dans la restauration collective publique pour atteindre les objectifs de la loi EGalim",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Mettre en place une prime à l’investissement permettant aux établissements de changer leurs pratiques et d’atteindre les objectifs de la loi EGalim. Celle-ci prévoit 50 % de produits alimentaires durables dont 20 % de bio dans les assiettes de la restauration collective d’ici à 2022.",
+                        "code": "SN1.1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Bonus pour les petites cantines scolaires servant des repas bio et locaux",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Proposer un bonus de 10 centimes d’euro par repas pour les petites cantines bio et locales (moins de 200 repas par jour) afin de les aider à absorber le surcoût les trois premières années de leur transition.",
+                        "code": "SN1.1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Créer un « observatoire de la restauration collective »",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Créer un _« observatoire de la restauration collective »_ ayant pour objectif de partager les bonnes pratiques et de suivre l’atteinte des objectifs de la loi EGalim.",
+                        "code": "SN1.1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Mettre en place un organisme de contrôle de la mise en oeuvre de la loi EGalim",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Mettre en place un organisme de contrôle pour assurer la bonne mise en oeuvre de la loi EGalim.",
+                        "code": "SN1.1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Réfléchir à la réécriture de l'arrêté du 30 septembre 2011 sur la qualité nutritionnelle des repas de restauration scolaire",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Encourager la réflexion pour réécrire l'arrêté du 30 septembre 2011 relatif à la qualité nutritionnelle des repas servis en restauration scolaire.",
+                        "code": "SN1.1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Développer les menus végétariens dans la restauration collective publique",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Passer à un choix végétarien quotidien dans les self-services à partir de 2022 et inciter la restauration collective à menu unique à développer des menus végétariens.",
+                        "code": "SN1.1.6",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Etendre la loi EGalim à la restauration collective privée à partir de 2025",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Etendre toutes les dispositions de la loi EGalim à la restauration collective privée à partir de 2025.",
+                        "code": "SN1.1.7",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Etendre la liste des produits éligibles aux 50 % de produits durables en restauration collective",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Etendre la liste des produits éligibles aux 50 % définis par la loi aux agriculteurs en transition vers le bio et aux produits à faible coût environnemental.",
+                        "code": "SN1.1.8",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Aider à la reconnaissance des produits considérés comme de qualité",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen",
+                        "summary": "Aider à la structuration des filières afin qu’elles arrivent à faire reconnaître des produits dans des signes de qualité.",
+                        "code": "SN1.1.9",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/engager-la-restauration-collective-vers-des-pratiques-plus-vertueuses/"
+                    },
+                    {
+                        "title": "Assurer la présence de la DGCCRF dans les négociations de prix entre producteurs, transformateurs et distributeurs",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Assurer la présence de la direction générale de la concurrence, de la consommation et de la répression des fraudes (DGCCRF) dans les négociations, rendre la méthode obligatoire pour toutes les filières et organiser des rendez-vous réguliers à l'échelle des interprofessions, obliger à la transparence, les entreprises agroalimentaires et les centrales d’achats.",
+                        "code": "SN1.2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/rendre-les-negociations-tripartites-plus-transparentes-et-plus-justes-pour-les-agriculteurs/"
+                    },
+                    {
+                        "title": "Orienter les commandes publiques vers les circuits courts et peu polluants",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Utiliser le levier de la commande publique pour valoriser les produits issus de circuits courts, locaux et à faible coût environnemental, sous la forme d’un _« guide d’achat »_ à adresser aux acheteurs publics.",
+                        "code": "SN1.3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-circuits-courts/"
+                    },
+                    {
+                        "title": "Poursuivre les efforts dans la restauration collective (portions ajustées, tri sélectif étendu, choix des menus)",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Poursuivre les efforts dans la restauration collective.",
+                        "code": "SN1.4.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/poursuivre-les-efforts-sur-la-reduction-du-gaspillage-alimentaire-en-restauration-collective-et-au-niveau-individuel/"
+                    }
+                ],
+                "name": "Alimentation"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Atteindre 50 % d’exploitations en agroécologie en 2040",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "- Atteindre 50 % d’exploitations en agroécologie en 2040 ;\n- obligation pour l’Etat de convertir l’ensemble des surfaces agricoles en sa possession à des pratiques agroécologiques sous 5 ans ;\n- modification des baux ruraux afin de permettre la prescription par les propriétaires de pratiques agroécologiques ;\n- réflexion pour faire évoluer la gouvernance du système agricole, et notamment les pratiques des Safer _\\[les sociétés d’aménagement foncier et d’établissement rural\\]_, afin qu’elles puissent favoriser l’installation des agriculteurs en agroécologie ;\n- interdire les graines OGM d’ici 2025 ;\n- autoriser et légaliser la vente de graines (_« semences anciennes »_ ou_« paysannes »_).",
+                        "code": "SN2.1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-pratiques-agroecologiques/"
+                    },
+                    {
+                        "title": "Inscrire le développement de l'agriculture biologique dans le Plan stratégique national (PSN)",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Inscrire dans la loi et le PSN le développement de l'agriculture biologique (maintenir l'aide à la conversion, restaurer l'aide au maintien de l'agriculture biologique, faire supporter le coût de certification annuelle du label par l'État).",
+                        "code": "SN2.1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-pratiques-agroecologiques/"
+                    },
+                    {
+                        "title": "Augmenter la taxe générale sur les activités polluantes relative pour décourager l'usage d'engrais azotés",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Engrais azotés : augmenter la taxe générale sur les activité polluantes (TGAP).",
+                        "code": "SN2.1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-pratiques-agroecologiques/"
+                    },
+                    {
+                        "title": "Diminuer de 50 % l’usage des produits phytopharmaceutiques et interdire les pesticides les plus nocifs d’ici 2025",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "- Diminution de l’usage des pesticides avec une interdiction des produits CMR (cancérigènes, mutagènes, rétroproducteurs) ;\n- diminution de l’usage des produits phytopharmaceutiques de 50 % d’ici 2025 ;\n- interdiction des pesticides les plus dommageables pour l’environnement en 2035.",
+                        "code": "SN2.1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-pratiques-agroecologiques/"
+                    },
+                    {
+                        "title": "Aider à structurer la filière des protéagineux",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Inscrire dans la loi et le plan stratégique national (PSN) l'aide à la structuration de la filière des protéagineux (augmentation de l'autonomie du cheptel animal français, 100% d'autonomie pour l'alimentation humaine en protéines végétales, accroissement de la diversification des cultures dans la PAC, mise en œuvre du plan protéines végétales national).",
+                        "code": "SN2.1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-pratiques-agroecologiques/"
+                    },
+                    {
+                        "title": "Développer les prairies permanentes et zones de végétation qui stockent le carbone",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Inscrire dans la loi et le plan stratégique national (PSN) l’aide au maintien des prairies permanentes, la mise en place d’un couvert végétal obligatoire, la rémunération des services environnementaux rendus par les agriculteurs.",
+                        "code": "SN2.1.6",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-pratiques-agroecologiques/"
+                    },
+                    {
+                        "title": "Interdire le financement de nouveaux élevages ne respectant pas les principes de l’agroécologie",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Inscrire dans la loi et le plan stratégique national l’interdiction du financement d’implantation de nouveaux élevages qui ne respectent pas les conditions d’agroécologie et de faibles émissions de gaz à effet de serre, accompagner les éleveurs vers une restructuration de leur cheptel pour améliorer la qualité de production.",
+                        "code": "SN2.1.7",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-pratiques-agroecologiques/"
+                    },
+                    {
+                        "title": "Réformer l'enseignement et la formation agricole vers plus d'agroécologie",
+                        "target": "L'Etat",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen",
+                        "summary": "Réformer l'enseignement et la formation agricole : intégrer au tronc commun obligatoire l'enseignement de l'agroécologie, imposer des stages dans des exploitations qui appliquent les méthodes de l'agroécologie, ouvrir la formation continue sur les pratiques agroécologiques pour tous les agriculteurs, former les conseillers techniques aux pratiques de l'agroécologie.",
+                        "code": "SN2.2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reformer-lenseignement-et-la-formation-agricole/"
+                    },
+                    {
+                        "title": "Renforcer les exigences des critères de verdissement pour le versement des aides de la PAC",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Relever les niveaux d’exigences des conditions de verdissement de la politique agricole commune (PAC).",
+                        "code": "SN2.3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/tenir-une-position-ambitieuse-de-la-france-pour-la-negociation-de-la-pac-politique-agricole-commune/"
+                    },
+                    {
+                        "title": "Transformer les aides à l'hectare en aides à l'actif agricole",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Transformer l’attribution des aides à l’hectare vers des aides à l’actif agricole.",
+                        "code": "SN2.3.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/tenir-une-position-ambitieuse-de-la-france-pour-la-negociation-de-la-pac-politique-agricole-commune/"
+                    },
+                    {
+                        "title": "Mettre en place une évaluation de la performance climat du plan stratégique présenté par la France pour la prochaine PAC",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Mettre en place un mécanisme de suivi et d’évaluation de l’atteinte de la performance climat du plan stratégique national (PSN).",
+                        "code": "SN2.4.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/la-pac-comme-levier-de-transformation-au-niveau-national/"
+                    },
+                    {
+                        "title": "Rendre le plan stratégique de la France pour la prochaine PAC compatible avec les autres stratégies nationales pour l'environnement",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Mettre en compatibilité le plan stratégique national (PSN) avec la stratégie nationale bas carbone (SNBC), la stratégie nationale pour la biodiversité, le Plan national santé environnement et la stratégie nationale de lutte contre la déforestation importée (SNDI).",
+                        "code": "SN2.4.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/la-pac-comme-levier-de-transformation-au-niveau-national/"
+                    },
+                    {
+                        "title": "Intégrer toutes les mesures proposées sur l'agroécologie au plan stratégique que la France présentera dans le cadre de la révision de la PAC",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Intégrer toutes les dispositions concernant le développement de l'agroécologie au plan stratégique national (PSN).",
+                        "code": "SN2.4.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/la-pac-comme-levier-de-transformation-au-niveau-national/"
+                    }
+                ],
+                "name": "Agriculture"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Mieux connaître les stocks et flux de poissons pour définir les quotas de pêche",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Faible",
+                        "summary": "Améliorer la connaissance des stocks et déplacements de poissons pour mieux définir les quotas et éliminer la surpêche.",
+                        "code": "SN3.1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/inciter-au-developpement-dune-peche-a-faible-emission/"
+                    },
+                    {
+                        "title": "Renforcer la limitation de la pêche en zones sensibles et contrôler son interdiction en eau profonde",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Poursuivre les efforts de limitation de la pêche dans les zones et pour les stocks fragiles, et affermir les contrôles sur l’interdiction de la pêche en eau profonde.",
+                        "code": "SN3.1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/inciter-au-developpement-dune-peche-a-faible-emission/"
+                    },
+                    {
+                        "title": "Développer les fermes aquacoles respectueuses de l’environnement pour éviter la pêche en milieu naturel",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Développer les fermes aquacoles raisonnées et respectueuses de l’environnement, afin d’éviter de pêcher les poissons dans leur milieu naturel.",
+                        "code": "SN3.1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/inciter-au-developpement-dune-peche-a-faible-emission/"
+                    },
+                    {
+                        "title": "Protéger la capacité de stockage carbone des océans à travers leur biodiversité",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Demander au gouvernement de porter la recommandation suivante auprès des organisations internationales compétentes : permettre à l’océan de poursuivre son activité de puits de carbone, et ce notamment au travers du rôle de la baleine et des espèces marines.\n\nDévier les routes/couloirs de circulation des navires afin qu’il n’y ait plus de collisions avec les baleines et les animaux marins.",
+                        "code": "SN3.1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/inciter-au-developpement-dune-peche-a-faible-emission/"
+                    },
+                    {
+                        "title": "Rendre la pêche et le transport maritime moins polluants en modernisant la flotte de bateaux",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Diminuer les émissions de gaz à effet de serre dues à la pêche et au transport maritime en poursuivant la modernisation de la flotte de bateaux vers des systèmes de propulsion verts.",
+                        "code": "SN3.1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/inciter-au-developpement-dune-peche-a-faible-emission/"
+                    }
+                ],
+                "name": "Pêche"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Renégocier le CETA au niveau européen pour y intégrer les objectifs de l’accord de Paris",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Demander au gouvernement et au Parlement français de ne pas ratifier le CETA (accord commercial Union européenne-Canada) et de dénoncer l’application provisoire de l’accord.\n\nRouvrir les négociations sur l’accord pour le modifier (inscription du principe de précaution, respect contraignant des objectifs climatiques de l’accord de Paris, fin des tribunaux d’arbitrage privés, meilleur contrôle démocratique).",
+                        "code": "SN4.1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reflechir-sur-un-modele-de-politique-commerciale-davenir-soucieux-dencourager-une-alimentation-saine-et-une-agriculture-faible-en-emissions-de-gaz-a-effet-de-serre-en-france/"
+                    },
+                    {
+                        "title": "Demander au gouvernement français de défendre une réforme de la politique commerciale européenne",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Demander au gouvernement français de défendre une réforme politique commerciale européenne :\n\n- inscrire le principe de précaution dans les accords commerciaux ;\n- inscrire le respect des engagements de l’accord de Paris comme objectifs contraignants\n- mettre fin aux tribunaux d’arbitrage privés ;\n- garantir la transparence et permettre le contrôle démocratique des négociations.\n\nL’évaluation des émissions liées aux importations doit devenir un indicateur-clé de suivi de la politique commerciale.",
+                        "code": "SN4.1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reflechir-sur-un-modele-de-politique-commerciale-davenir-soucieux-dencourager-une-alimentation-saine-et-une-agriculture-faible-en-emissions-de-gaz-a-effet-de-serre-en-france/"
+                    },
+                    {
+                        "title": "Demander au gouvernement français de défendre une réforme de l’Organisation mondiale du commerce (OMC) pour respecter l’accord de Paris",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Demander au gouvernement français de défendre une réforme de l’OMC :\n\n- évaluation des émissions engendrées par les accords commerciaux, et intégration de clauses environnementales ;\n- mise en place de sanctions pour les Etats ne respectant pas l’accord de Paris.",
+                        "code": "SN4.1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reflechir-sur-un-modele-de-politique-commerciale-davenir-soucieux-dencourager-une-alimentation-saine-et-une-agriculture-faible-en-emissions-de-gaz-a-effet-de-serre-en-france/"
+                    }
+                ],
+                "name": "Commerce international"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Renforcer la communication autour des repères nutritionnels (plan national relatif à la nutrition et à la santé)",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen",
+                        "summary": "Mieux informer le consommateur en renforçant la communication autour du plan national relatif à la nutrition et à la Santé (PNNS) et le transformer en un plan national relatif à la nutrition, à la santé et au climat (PNNSC).",
+                        "code": "SN5.2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/mieux-informer-les-consommateurs/"
+                    },
+                    {
+                        "title": "Interdire la publicité pour les aliments trop gras, trop salés ou trop sucrés et apposer des avertissements sur leurs emballages",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Interdire la publicité sur les produits proscrits ou déconseillés par le plan national relatif à la nutrition et à la santé (trop gras, salés ou sucrés) et inscrire des messages incisifs et percutants sur leur étiquette.",
+                        "code": "SN5.2.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/mieux-informer-les-consommateurs/"
+                    },
+                    {
+                        "title": "Instaurer des chèques alimentaires pour faciliter l’achat de produits durables",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Concevoir une nouvelle solidarité nationale alimentaire pour permettre aux ménages modestes d’avoir accès à une alimentation durable.\n\nInventer des systèmes redistributifs, comme les chèques alimentaires, qui permettent aux ménages les plus modestes d’acquérir des produits de qualités durables.",
+                        "code": "SN5.2.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/mieux-informer-les-consommateurs/"
+                    },
+                    {
+                        "title": "Supprimer les labels privés et créer un label pour les produits issus de l’agriculture agroécologique",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Faible",
+                        "summary": "Réformer le fonctionnement des labels en supprimant les labels privés et en mettant en place un label pour les produits issus de l’agriculture agroécologique.",
+                        "code": "SN5.3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reformer-le-fonctionnement-des-labels/"
+                    }
+                ],
+                "name": "Information des consommateurs"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Informer les consommateurs du degré de transformation des produits",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Faible",
+                        "summary": "Informer les consommateurs du degré de transformation des produits, notamment via un étiquetage obligatoire et la mise en place d’une charte éthique agroalimentaire qui renseigne et qualifie en termes de gaz à effet de serre les auxiliaires techniques et les additifs alimentaires. Informer rapidement et manière obligatoire sur les accidents alimentaires.",
+                        "code": "SN6.1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reglementer-la-production-limportation-et-lusage-des-auxiliaires-techniques-et-additifs-alimentaires/"
+                    },
+                    {
+                        "title": "Interdire l'importation des produits composés d'auxiliaires technologiques proscrits par l'UE",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Interdire l'importation des produits qui sont composés d'auxiliaires technologiques proscrits par l'Union européenne.",
+                        "code": "SN6.1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reglementer-la-production-limportation-et-lusage-des-auxiliaires-techniques-et-additifs-alimentaires/"
+                    },
+                    {
+                        "title": "Interdire sous cinq ans l’usage des additifs et des auxiliaires esthétiques alimentaires",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Interdire progressivement, sous cinq ans, l’usage des auxiliaires de production et des additifs alimentaires.",
+                        "code": "SN6.1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reglementer-la-production-limportation-et-lusage-des-auxiliaires-techniques-et-additifs-alimentaires/"
+                    },
+                    {
+                        "title": "Taxer les produits ultratransformés, à forte empreinte carbone et faible apport nutritionnel",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Taxer les produits ultratransformés, à forte empreinte carbone et faible apport nutritionnel.",
+                        "code": "SN6.1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reglementer-la-production-limportation-et-lusage-des-auxiliaires-techniques-et-additifs-alimentaires/"
+                    },
+                    {
+                        "title": "Créer des chèques alimentaires à utiliser dans les circuits courts et bio",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Mettre en place des chèques alimentaires pour les plus démunis à utiliser dans les associations pour le maintien de l'agriculture paysanne (AMAP) ou pour des produits bios.",
+                        "code": "SN6.1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reglementer-la-production-limportation-et-lusage-des-auxiliaires-techniques-et-additifs-alimentaires/"
+                    }
+                ],
+                "name": "Ethique dans l'alimentation"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Légiférer sur le crime d’écocide",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Adopter une loi qui pénalise le crime d’écocide dans le cadre des neuf limites planétaires et qui intègre le devoir de vigilance et le délit d’imprudence, dont la mise en œuvre soit garantie par la haute autorité des limites planétaires.",
+                        "code": "SN7.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/legiferer-sur-le-crime-decocide/"
+                    }
+                ],
+                "name": "Crime d'écocide"
+            }
+        ],
+        "name": "L'alimentation"
+    },
+    {
+        "families": [
+            {
+                "proposals": [
+                    {
+                        "title": "Améliorer la longévité et la conception écologique des produits",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Généraliser l’écoconception pour augmenter la longévité des produits, encourager l'inclusion de matières recyclées et réduire la pollution.\n\nFixer le taux de matières recyclées par secteur des produits et l’augmenter progressivement",
+                        "code": "PT1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/favoriser-une-production-plus-responsable-developper-les-filieres-de-reparation-de-recyclage-et-de-gestion-des-dechets/"
+                    },
+                    {
+                        "title": "Faire respecter la loi sur l’interdiction de l’obsolescence programmée",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Faire respecter la loi sur l’interdiction de l’obsolescence programmée.",
+                        "code": "PT1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/favoriser-une-production-plus-responsable-developper-les-filieres-de-reparation-de-recyclage-et-de-gestion-des-dechets/"
+                    },
+                    {
+                        "title": "Rendre obligatoire la possibilité de réparer des produits : démontage possible, pièces détachées disponibles, ateliers dédiés",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Rendre obligatoire la possibilité de réparation des produits manufacturés qui sont vendus en France, la disponibilité des pièces détachées d’origine pendant une durée définie. Mettre en place et à proximité des filières et ateliers de réparation, et rendre accessibles les services après-vente.",
+                        "code": "PT1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/favoriser-une-production-plus-responsable-developper-les-filieres-de-reparation-de-recyclage-et-de-gestion-des-dechets/"
+                    },
+                    {
+                        "title": "Imposer le recyclage de tous les objets en plastique et supprimer les plastiques à usage unique dès 2023",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Rendre obligatoire le recyclage de tous les objets en plastique dès 2023, supprimer tous les plastiques à usage unique dès 2023 et développer le recyclage des autres matières.",
+                        "code": "PT1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/favoriser-une-production-plus-responsable-developper-les-filieres-de-reparation-de-recyclage-et-de-gestion-des-dechets/"
+                    },
+                    {
+                        "title": "Durcir et appliquer la réglementation sur les déchets",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Durcir et appliquer la réglementation sur les déchets d’activités économiques, les déchets ménagers non dangereux (DND) et les déchets non dangereux inertes.",
+                        "code": "PT1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/favoriser-une-production-plus-responsable-developper-les-filieres-de-reparation-de-recyclage-et-de-gestion-des-dechets/"
+                    },
+                    {
+                        "title": "Conditionner les aides à l’innovation à l’objectif de décarbonisation",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Faible ou moyen",
+                        "summary": "D’ici 2025, tout soutien à l’innovation doit s’inscrire dans une logique de sortie d’un modèle basé sur le carbone :\n\n- analyser systématiquement l’impact sur l’environnement et la transition énergétique des innovations de façon indépendante ;\n- créer un fonds de rachat des brevets ;\n- faciliter l’accès aux labellisations types <a href=\"https://ec.europa.eu/environment/ecoap/etv\\_fr\" target=\"\\_blank\">ETV de vérification des performances des écotechnologies innovantes et flécher la commande publique vers ces technologies.",
+                        "code": "PT2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-et-soutenir-linnovation-de-la-transition/"
+                    },
+                    {
+                        "title": "Diriger l'épargne règlementée vers les investissements verts",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Flécher l’épargne réglementée gérée par la Caisse des dépôts (CDC) et les banques vers des investissements verts, en créant des réseaux et actions d'étude et de financement de projets à l'échelle régionale. Faire évoluer la gouvernance de la CDC pour soutenir cette logique.",
+                        "code": "PT3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/organiser-et-soutenir-le-financement-de-la-transformation-de-loutil-de-production-des-entreprises-dans-le-cadre-de-la-transition-ecologique/"
+                    },
+                    {
+                        "title": "Taxe écologique sur les entreprises, modulée en fonction du niveau des dividendes",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Les entreprises qui distribuent plus de 10 millions d’euros de dividendes annuels, participeront, chaque année, à l’effort de financement écologique à hauteur de 4 % et celles dont les dividendes sont inférieurs à 10 millions à hauteur de 2 %. Ces sommes perçues seront intégrées au budget de la transition dès 2021.",
+                        "code": "PT3.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/organiser-et-soutenir-le-financement-de-la-transformation-de-loutil-de-production-des-entreprises-dans-le-cadre-de-la-transition-ecologique/"
+                    },
+                    {
+                        "title": "Emprunt d’État pour financer la transformation écologique des entreprises",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Mettre en place les modalités de financement par loi ou décret avec un emprunt d’État dédié au financement de la transformation des entreprises.",
+                        "code": "PT3.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/organiser-et-soutenir-le-financement-de-la-transformation-de-loutil-de-production-des-entreprises-dans-le-cadre-de-la-transition-ecologique/"
+                    }
+                ],
+                "name": "Outil de production"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Améliorer la gouvernance territoriale de l’énergie",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Amélioration de la gouvernance territoriale/régionale de l’énergie :\n\n- régionaliser les objectifs de la programmation pluriannuelle de l’énergie ;\n- régionaliser une partie des appels d’offres nationaux ;\n- répartir le budget de la PPE sur l’ensemble des régions.",
+                        "code": "PT11.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/production-stockage-et-redistribution-denergie-pour-et-par-tous/"
+                    },
+                    {
+                        "title": "Favoriser les projets locaux d'énergie renouvelable",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Participation des citoyens, entreprises locales, associations locales et collectivités locales aux projets d'énergies renouvelables\n\n- Favoriser les projets citoyens avec des incitations ou des critères préférentiels dans les appels d'offres et les subventions\n- Soutenir les petits projets à gouvernance locale",
+                        "code": "PT11.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/production-stockage-et-redistribution-denergie-pour-et-par-tous/"
+                    },
+                    {
+                        "title": "Réduire les contraintes réglementaires pour les petits projets locaux d’énergie renouvelable",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "- Augmenter la limite des appels d’offres des projets d’énergie renouvelable de 100 à 500 kW ;\n- relever le seuil du permis de construire et de l’évaluation environnementale à 500 kW (photovoltaïque au sol) afin de permettre plus de petits projets locaux sans appel d’offres ;\n- prohiber l’utilisation de cultures dédiées uniquement à la méthanisation ;\n- augmenter les bonus dans le tarif d’achat lié à un projet participatif (actuellement de 1 €/MWh pour un financement participatif et de 3 €/MWh pour un investissement participatif) et moduler le tarif de rachat en fonction de la zone climatique RT2012 (3 zones) ;\n- permettre le développement des projets sans qu’ils aient à payer de tarif d’utilisation des réseaux ;\n- découpler de la demande de raccordement de celle de l’obligation d’achat dans les projets d’énergie renouvelable ;\n- mettre en place un guichet unique rassemblant les différents interlocuteurs techniques et administratifs (Enedis, EDF OA, préfecture…) pour les porteurs de projet citoyens et publics d’énergie renouvelable ;\n- développement de l’autoconsommation d’énergie ;\n- adapter la réglementation environnementale des bâtiments RE2020 pour favoriser, voire obliger l’installation de panneaux photovoltaïques en toiture sur les nouveaux bâtiments.",
+                        "code": "PT11.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/production-stockage-et-redistribution-denergie-pour-et-par-tous/"
+                    },
+                    {
+                        "title": "Réduire l’impact environnemental du développement du numérique",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Accompagner l’évolution du numérique pour réduire ses impacts environnementaux :\n\n- écoconcevoir les produits, logiciels, services et développer le réemploi ;\n- systématiser les écolabels sur tous les équipements numériques ;\n- promouvoir l’information et l’éducation sur les pratiques de sobriété numérique ;\n- rendre accessibles au consommateur les engagements de neutralité carbone des acteurs du numérique.",
+                        "code": "PT12.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/accompagner-levolution-du-numerique-pour-reduire-ses-impacts-environnementaux/"
+                    }
+                ],
+                "name": "Energie (production, stockage, redistribution, sobriété)"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Accompagner les salariés et les entreprises dans la transition écologique",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Faible",
+                        "summary": "Accompagner les salariés et les entreprises dans la transition :\n\n- Anticiper et planifier la reconversion des entreprises qui seront touchées par ces évolutions\n- Créer et financer les formations professionnelles initiales et continues\n- Identifier et aider les petits entreprises et les sous-traitants dans le redressement lorsque leur activité disparaît",
+                        "code": "PT4.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/accompagner-la-reconversion-des-entreprises-et-la-transformation-des-metiers-au-niveau-regional/"
+                    },
+                    {
+                        "title": "Créer une gouvernance de la transition des emplois aux niveaux national et régional",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Créer une nouvelle gouvernance de la transition des emplois et compétences au niveau national et régional.",
+                        "code": "PT4.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/accompagner-la-reconversion-des-entreprises-et-la-transformation-des-metiers-au-niveau-regional/"
+                    }
+                ],
+                "name": "Emploi et travail"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Renforcer les obligations de transparence des entreprises et associations sur leur bilan environnemental",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Annualiser le reporting \\[extra-financier, qui permet d’évaluer la prise en compte de critères environnementaux, sociaux et de gouvernance dans les politiques d’investissements\\].\n\nEtendre le reporting à toutes les organisations (avec un délai de dix ans pour les PME et associations).\n\nInstaurer une sanction dissuasive en cas de non-respect des obligations de reporting (en % du chiffre d’affaires et affichage public du non-respect).\n\nRendre obligatoire la publication des bilans carbone des entreprises.",
+                        "code": "PT6.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/ajouter-un-bilan-carbone-dans-le-bilan-comptable-de-toutes-les-structures-qui-doivent-produire-un-bilan/"
+                    },
+                    {
+                        "title": "Elargir le « reporting » environnemental au secteur financier",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Elargir le périmètre du reporting sur les émissions de gaz à effet de serre au secteur financier qui échappe à cette obligation légale de transparence.",
+                        "code": "PT6.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/ajouter-un-bilan-carbone-dans-le-bilan-comptable-de-toutes-les-structures-qui-doivent-produire-un-bilan/"
+                    },
+                    {
+                        "title": "Favoriser financièrement les entreprises avec un bon bilan environnemental",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Instaurer un bonus-malus pour les entreprises et conditionner les aides publiques à l’évolution de leur bilan écologique.",
+                        "code": "PT6.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/ajouter-un-bilan-carbone-dans-le-bilan-comptable-de-toutes-les-structures-qui-doivent-produire-un-bilan/"
+                    },
+                    {
+                        "title": "Renforcer les clauses environnementales dans les marchés publics",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Renforcer les clauses environnementales dans les marchés publics d’ici 2030, en les rendant obligatoires pour tous les marchés et en s’assurant que le critère environnemental représente au moins 20 % de la note.\n\nIntroduire la notion d’_« offre écologiquement la plus avantageuse »_ dans les appels d’offres, pour favoriser les circuits courts et les entreprises avec un bon score carbone.\n\nS’assurer que les produits importés dans le cadre des marchés publics respectent les réglementations européennes en vigueur, comme par exemple le label bio.\n\nAccentuer la formation des fonctionnaires et des élus en charge des marchés publics.\n\nMettre en place un réseau de _« référents »_ pour aider les donneurs d’ordres publics à rédiger leurs marchés et aux candidats à y répondre en respectant les clauses environnementales.",
+                        "code": "PT7.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/renforcer-les-clauses-environnementales-dans-les-marches-publics/"
+                    },
+                    {
+                        "title": "Protéger les écosystèmes et la biodiversité (cours départementales de l’environnement, forêts et milieux aquatiques, produits nocifs, techniques de production)",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Instaurer des cours départementales de l’environnement consultatives, qui siégeront deux fois par an. Leurs missions :\n\n- étudier la conformité des réalisations et des exploitations aux critères réglementaires ;\n- signifier la présence d’infractions pour non-conformité à la loi dans les réalisations exécutées ou en cours ;\n- assurer les concertations entre experts et représentants ;\n- en cas de non respect des conclusions des études d’impact environnemental, instauration de sanctions administratives et pénales, pouvant aller jusqu’à l’arrêt de l’activité.\n\nAméliorer l’exploitation et la gestion des forêts :\n\n- augmenter les effectifs de l’Office national des forêts (ONF) ;\n- renforcer la surveillance des forêts en période de forte chaleur ;\n- ne pas augmenter la récolte de bois en forêt au-delà de ce qui a déjà été prélevé l’année précédente ;\n- n’utiliser la méthanisation que sur les déchets des arbres de récolte ;\n- interdire la coupe rase dans les vieilles forêts, et les coupes rases supérieures à 0,5 hectares sur un périmètre de 5 km dans l’ensemble des autres forêts ;\n- minimiser la replantation des résineux et veiller au mélange des variétés d’arbres ;\n- éliminer la pollution lumineuse qui perturbe les espèces sauvages ;\n- installer des vergers témoins ou des mécanismes de préservation locale pour les animaux sauvages.\n\nPréserver les espaces aquatiques :\n\n- intégrer des systèmes de barrages flottants antipollution et systèmes mouillés partout où cela est possible et nécessaire ;\n- rendre obligatoire les passes à poissons sur chaque barrage ;\n- interdire le dégazage de l’ensemble des véhicules ;\n- rendre obligatoire d’ici 2022 le nettoyage des déchets et des produits nocifs dans les mers et océans en zone française avec une obligation de recyclage ;\n- équiper les zones portuaires de systèmes de rétention afin de préserver la biodiversité marine ;\n- rendre obligatoire d’ici 2025 le reconditionnement des véhicules aquatiques (de pêche, de tourisme, de commerce et de défense).\n\nTraitement de la nocivité pour protéger les écosystèmes et la biodiversité :\n\n- ne pas introduire de végétaux, d’animaux ou d’autres éléments pouvant mettre en péril l’équilibre fragile de nos écosystèmes ;\n- à partir de 2022, si malgré le traitement, ces insectes nuisibles à notre écosystème continuent à proliférer dans notre pays ou que leur traitement est trop nocif, l’importation de ces plantes ne deviendra possible que dans un cadre non commercial (études, recherche, etc.) ;\n- pérenniser l’interdiction de la culture de plantes OGM et favoriser les cultures ne nécessitant pas de sulfatage ;\n- encourager la recherche dans la création de produits de traitements naturels, inoffensifs pour les cultures et les écosystèmes ;\n- interdire l’importation et d’exportation de produits toxiques dont l’utilisation est interdite sur le territoire français ;\n- imposer des évaluations environnementales pour tous les programmes de traitement des déchets (existants et en projets), et exhumer les déchets en cas de danger ;\n- renforcer le contrôle du transfert clandestin des déchets aux frontières, en augmentant les effectifs de la police environnementale d’ici 2022 ;\n- améliorer les systèmes de traitement des eaux afin de réduire les concentrations de produits provoquant une dangerosité ;\n- établir et réviser la liste des produits micropolluants tous les cinq ans ;\n- rendre obligatoire la recherche fondamentale sur la biodiversité et le climat, et la financer à hauteur de 10 % sur les bénéfices des laboratoires.\n\nToute ressource nécessaire à la production en France doit majoritairement provenir du territoire français (sols, forêts et mers) – outremer compris – et devra être exploitée et/ou transformée au plus près de son origine, sauf dans le cas où les équipements, les techniques ou la main d’œuvre adéquats y seraient inexistants.",
+                        "code": "PT8.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/protection-des-ecosystemes-et-de-la-biodiversite/"
+                    },
+                    {
+                        "title": "Taxer les importations en fonction de leur empreinte carbone aux frontières de l’UE",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Demander au gouvernement français de porter au niveau européen la création d’ici 2024 d’un ajustement carbone aux frontières de l’Union européenne, pour taxer les produits en fonction de leur _« import carbone »_ (production, transport…).\n\nUtiliser le produit de cette taxe uniquement pour la transition écologique.\n\nLes produits (notamment de première nécessité) doivent rester accessibles.\n\nInstaurer des objectifs européens de réduction des émissions tenant compte des importations.",
+                        "code": "PT9.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/mieux-prendre-en-compte-les-emissions-de-gaz-a-effet-de-serre-liees-aux-importations-dans-les-pollutions-europeennes/"
+                    }
+                ],
+                "name": "Traçage des émissions et obligations environnementales"
+            }
+        ],
+        "name": "La production et le travail"
+    },
+    {
+        "families": [
+            {
+                "proposals": [
+                    {
+                        "title": "Renforcer et étendre le forfait mobilité durable",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Inciter à utiliser des moyens de transports doux ou partagés, notamment pour les trajets domicile-travail, en généralisant et améliorant le forfait mobilité durable \\[finançant le covoiturage et les mobilités douces\\] prévu par la récente loi d’orientation des mobilités :\n\n- prendre les décrets d’application nécessaires pour rendre effective cette prime ;\n- généraliser la prime à toutes les entreprises de plus de 11 salariés ;\n- augmenter la prime de 400 à 500 € par an, avec possibilité de l’étendre (jusqu’à 1 800 €) dans des conditions particulières (zone rurale, précarité) ;\n- assurer une application équivalente pour les salariés du secteur public (alors que l’État ne s’engage aujourd’hui que sur 200 €) ;\n- le surcoût engendré par la mesure peut être compensé par un crédit d’impôt ou une aide pour les petites entreprises qui ne pourront pas absorber facilement ce surcoût.",
+                        "code": "SD-A1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-autres-modes-de-transport-que-la-voiture-individuelle/"
+                    },
+                    {
+                        "title": "Réformer le barème de l’indemnité kilométrique automobile pour qu’il dépende des émissions de la voiture",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Réformer le système d’indemnité kilométrique automobile, en l’indexant sur les émissions de CO2 plutôt que sur la puissance du moteur.",
+                        "code": "SD-A1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-autres-modes-de-transport-que-la-voiture-individuelle/"
+                    },
+                    {
+                        "title": "Créer un système de prêt de vélo pour les jeunes",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Créer pour les jeunes un système de prêt de vélo, basé sur le modèle du prêt de livres scolaires.",
+                        "code": "SD-A1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/developper-les-autres-modes-de-transport-que-la-voiture-individuelle/"
+                    },
+                    {
+                        "title": "Créer des parkings relais",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen ou fort",
+                        "summary": "Créer des parkings relais. Pour chaque zone limitée ou interdite, en fonction de la taille de la ville, 1 à 4 (chiffre indicatif) parkings relais au minimum devront être prévus et financés, avec une connexion au réseau de transport public. Un appui de l’Etat pour financer ces infrastructures, en complément des collectivités, est préconisé par le groupe.",
+                        "code": "SD-A2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/amenager-les-voies-publiques-pour-permettre-de-nouvelles-habitudes-de-deplacement/"
+                    },
+                    {
+                        "title": "Interdire les centres-villes aux véhicules les plus polluants",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen ou fort",
+                        "summary": "Interdire les centres-villes pour les véhicules les plus émetteurs de gaz à effet de serre.",
+                        "code": "SD-A2.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Augmenter les moyens du fonds vélo (de 50 à 200 millions d’euros par an)",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Augmenter les montants du fonds vélo de 50 à 200 millions d’euros par an pour financer des pistes cyclables.",
+                        "code": "SD-A2.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/amenager-les-voies-publiques-pour-permettre-de-nouvelles-habitudes-de-deplacement/"
+                    },
+                    {
+                        "title": "Généraliser les voies réservées au covoiturage et aux véhicules partagés",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Généraliser les aménagements de voies réservées aux véhicules partagés et aux transports collectifs sur les autoroutes et voies rapides.",
+                        "code": "SD-A2.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/amenager-les-voies-publiques-pour-permettre-de-nouvelles-habitudes-de-deplacement/"
+                    },
+                    {
+                        "title": "Réduire la vitesse sur autoroute à 110 km/h",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Réduire la vitesse sur autoroute à 110 km/h maximum.",
+                        "code": "SD-A3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-les-emissions-des-gaz-a-effet-de-serre-sur-les-autoroutes-et-les-voies-rapides/"
+                    },
+                    {
+                        "title": "Réduire la TVA sur les billets de train de 10 % à 5,5 %",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Réduire la TVA sur les billets de train de 10 % à 5,5 %.",
+                        "code": "SD-A4.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/creer-les-conditions-dun-retour-fort-a-lusage-du-train-au-dela-des-voies-a-grande-vitesse/"
+                    },
+                    {
+                        "title": "Harmoniser et généraliser les tarifs réduits dans les TER",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Généraliser les mesures tarifaires attractives déjà pratiquées par certaines régions.",
+                        "code": "SD-A4.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/creer-les-conditions-dun-retour-fort-a-lusage-du-train-au-dela-des-voies-a-grande-vitesse/"
+                    },
+                    {
+                        "title": "Augmenter de 50 % les investissements publics dans les infrastructures ferroviaires",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Développer un plan d’investissement massif pour moderniser les infrastructures, les matériels roulants et les gares pour en faire des pôles multimodaux (lien avec les voitures, cars, vélo…).",
+                        "code": "SD-A4.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/creer-les-conditions-dun-retour-fort-a-lusage-du-train-au-dela-des-voies-a-grande-vitesse/"
+                    }
+                ],
+                "name": "Voiture individuelle"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Développer le fret maritime et fluvial et réduire la taxation du carburant pour le fluvial",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Développer les autoroutes de fret maritime (et fluvial), sur des trajets déterminés, en développant de nouveaux parcours et des incitations (comme la réduction de la taxation du carburant pour le fluvial).",
+                        "code": "SD-B1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-la-circulation-des-poids-lourds-emetteurs-de-gaz-a-effet-de-serre-sur-de-longues-distances-en-permettant-un-report-modal-vers-le-ferroviaire-ou-le-fluvial/"
+                    },
+                    {
+                        "title": "Mieux former les conducteurs de poids lourds à l’écoconduite",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen ou fort",
+                        "summary": "Imposer un suivi régulier de la formation des chauffeurs à l’écoconduite.",
+                        "code": "SD-B1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-la-circulation-des-poids-lourds-emetteurs-de-gaz-a-effet-de-serre-sur-de-longues-distances-en-permettant-un-report-modal-vers-le-ferroviaire-ou-le-fluvial/"
+                    },
+                    {
+                        "title": "Amplifier les investissements publics et privés dans les moteurs à hydrogène",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Imposer aux constructeurs de poids lourds d’adopter la même filière énergétique dans leur recherche et développement.",
+                        "code": "SD-B1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-la-circulation-des-poids-lourds-emetteurs-de-gaz-a-effet-de-serre-sur-de-longues-distances-en-permettant-un-report-modal-vers-le-ferroviaire-ou-le-fluvial/"
+                    },
+                    {
+                        "title": "Supprimer les avantages fiscaux sur le gazole et soutenir l'achat de poids lourds propres",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Sortir progressivement des avantages fiscaux sur le gazole, en échange de compensations fortes pour les transporteurs sous forme d’aides au financement accrues pour l’achat de poids-lourds neufs plus propres en remplacement des poids lourds polluants.",
+                        "code": "SD-B1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-la-circulation-des-poids-lourds-emetteurs-de-gaz-a-effet-de-serre-sur-de-longues-distances-en-permettant-un-report-modal-vers-le-ferroviaire-ou-le-fluvial/"
+                    },
+                    {
+                        "title": "Instaurer une vignette poids lourds et abaisser la taxe à l’essieu",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Inciter, par des obligations réglementaires et fiscales, au report partiel vers d’autres moyens de transport de marchandises moins émetteurs.",
+                        "code": "SD-B1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-la-circulation-des-poids-lourds-emetteurs-de-gaz-a-effet-de-serre-sur-de-longues-distances-en-permettant-un-report-modal-vers-le-ferroviaire-ou-le-fluvial/"
+                    },
+                    {
+                        "title": "Obliger les grandes entreprises françaises à définir un plan de réduction de leurs émissions liées au fret",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen ou fort",
+                        "summary": "Obliger les chargeurs à intégrer des clauses environnementales.",
+                        "code": "SD-B1.6",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-la-circulation-des-poids-lourds-emetteurs-de-gaz-a-effet-de-serre-sur-de-longues-distances-en-permettant-un-report-modal-vers-le-ferroviaire-ou-le-fluvial/"
+                    },
+                    {
+                        "title": "Augmenter ou réduire la TVA en fonction de la distance parcourue par les produits",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen ou fort",
+                        "summary": "Favoriser le transport de marchandises sur des circuits courts par une modulation de la TVA.",
+                        "code": "SD-B1.7",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-la-circulation-des-poids-lourds-emetteurs-de-gaz-a-effet-de-serre-sur-de-longues-distances-en-permettant-un-report-modal-vers-le-ferroviaire-ou-le-fluvial/"
+                    },
+                    {
+                        "title": "Interdire l’usage de moteurs polluants par les navires à quai",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Interdire l’usage des moteurs polluants lors des arrêts dans les ports.",
+                        "code": "SD-B2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-a-zero-les-emissions-des-navires-lors-de-leurs-operations-dans-les-ports-embarquement-et-debarquement-de-passagers-ou-de-marchandises/"
+                    },
+                    {
+                        "title": "Equiper les ports en bornes de recharge électrique pour les navires",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Faible",
+                        "summary": "Mettre à disposition les moyens d’alimenter en électricité les navires à quai pour permettre une réduction des émissions liées à l’usage des moteurs. Pour ce faire, nous proposons d’établir un plan d’équipement des ports (en fonction de leur statut), en commençant par les zones où les émissions sont les plus importantes.",
+                        "code": "SD-B2.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-a-zero-les-emissions-des-navires-lors-de-leurs-operations-dans-les-ports-embarquement-et-debarquement-de-passagers-ou-de-marchandises/"
+                    },
+                    {
+                        "title": "Encadrer les émissions des gaz à effet de serre des navires au niveau mondial",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Agir sur la réglementation internationale pour encadrer les émissions des gaz à effet de serre des navires \\[ce qui peut passer par une réduction de la vitesse maximale autorisée\\].",
+                        "code": "SD-B2.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reduire-a-zero-les-emissions-des-navires-lors-de-leurs-operations-dans-les-ports-embarquement-et-debarquement-de-passagers-ou-de-marchandises/"
+                    },
+                    {
+                        "title": "Renforcer le bonus écologique des véhicules peu polluants",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Augmenter le bonus pour les véhicules peu polluants, afin d’aider davantage les ménages et les professionnels dans leur évolution.",
+                        "code": "SD-C1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Renforcer le malus écologique automobile des véhicules polluants",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Renforcer très fortement le malus sur les véhicules polluants et introduire le poids comme un des critères à prendre en compte.",
+                        "code": "SD-C1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Interdire la vente de voitures neuves très polluantes en 2025",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Interdire dès 2025 la commercialisation de véhicules neufs très émetteurs ; les véhicules anciens pouvant continuer de circuler.",
+                        "code": "SD-C1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Instaurer un bonus-malus écologique sur les taxes des assurances automobiles",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Moduler les taxes sur les contrats d’assurance en fonction de l’émission de CO2 pour encourager les véhicules propres.",
+                        "code": "SD-C1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Aider financièrement les ménages modestes pour la location longue durée de véhicules propres",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Permettre l’accès à des véhicules propres en développant la location de longue durée.",
+                        "code": "SD-C1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Créer des prêts à taux zéro garantis par l’Etat pour l’achat de véhicules propres",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Proposer des prêts à taux zéro, avec la garantie de l’Etat, pour l’achat d’un véhicule peu émetteur (léger et pas trop cher).",
+                        "code": "SD-C1.6",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Créer une vignette verte permettant aux véhicules propres d'accéder à certains services (stationnement, accès…)",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Créer des vignettes vertes à positionner sur les plaques d’immatriculation pour les véhicules les plus propres et donnant accès à des services particuliers : accès au centre-ville, places de parking, etc.",
+                        "code": "SD-C1.7",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    },
+                    {
+                        "title": "Former les garagistes aux nouveaux véhicules propres",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Fort",
+                        "summary": "Prévoir un plan de formation pour les garagistes, et plus largement de la filière _« pétrole »_, pour accompagner la transformation progressive du parc automobile (nouveaux moteurs, carburants, systèmes).",
+                        "code": "SD-C1.8",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/agir-sur-la-reglementation-et-aider-a-la-transition-vers-un-parc-de-vehicules-propres/"
+                    }
+                ],
+                "name": "Transport de marchandises"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Obliger les entreprises à élaborer des plans de mobilité",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Inconnu",
+                        "summary": "Renforcer les plans de mobilité en les rendant obligatoires pour toutes les entreprises.",
+                        "code": "SD-D1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/impliquer-les-entreprises-et-les-administrations-pour-penser-et-mieux-organiser-les-deplacements-de-leurs-salaries-ou-agents/"
+                    },
+                    {
+                        "title": "Impliquer les autorités organisatrices de la mobilité dans la mise en place des plans de mobilité des entreprises",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Inconnu",
+                        "summary": "Les autorités organisatrices de la mobilité (AOM) peuvent aider à mettre en place ces plans de mobilité en accompagnant les entreprises",
+                        "code": "SD-D1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/impliquer-les-entreprises-et-les-administrations-pour-penser-et-mieux-organiser-les-deplacements-de-leurs-salaries-ou-agents/"
+                    },
+                    {
+                        "title": "Favoriser les plans de mobilité dans et entre les entreprises (covoiturage, bus interentreprises, vélo)",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Inconnu",
+                        "summary": "Favoriser les plans interentreprises et intra-entreprise (covoiturage, ramassage des salariés en bus, vélo …) dans le cadre des plans de mobilité.",
+                        "code": "SD-D1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/impliquer-les-entreprises-et-les-administrations-pour-penser-et-mieux-organiser-les-deplacements-de-leurs-salaries-ou-agents/"
+                    },
+                    {
+                        "title": "Développer le télétravail",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Inconnu",
+                        "summary": "Favoriser des nouvelles modalités d’organisation du travail.",
+                        "code": "SD-D1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/impliquer-les-entreprises-et-les-administrations-pour-penser-et-mieux-organiser-les-deplacements-de-leurs-salaries-ou-agents/"
+                    },
+                    {
+                        "title": "Créer un portail qui réunit toutes les informations et solutions de mobilité",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Faible",
+                        "summary": "Mettre en place un portail unique permettant de savoir à tout moment, rapidement et simplement, quels sont les moyens et dispositifs existants sur un territoire pour se déplacer.",
+                        "code": "SD-D2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/mettre-en-place-un-portail-unique-permettant-davoir-toutes-les-informations-sur-les-dispositifs-et-moyens-de-transport-sur-un-territoire/"
+                    },
+                    {
+                        "title": "Créer un service unique pour tous les moyens de transport",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Faible",
+                        "summary": "Développer un projet d’unification des titres de transport ou de carte multimodale.",
+                        "code": "SD-D2.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/mettre-en-place-un-portail-unique-permettant-davoir-toutes-les-informations-sur-les-dispositifs-et-moyens-de-transport-sur-un-territoire/"
+                    },
+                    {
+                        "title": "Intégrer des conseils citoyens aux autorités organisatrices de la mobilité",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Faible",
+                        "summary": "Intégrer les citoyens aux autorités organisatrices de la mobilité à toutes les échelles.",
+                        "code": "SD-D3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/inclure-des-citoyens-dans-la-gouvernance-des-mobilites-au-niveau-local-comme-au-niveau-national/"
+                    }
+                ],
+                "name": "Politique de transports dans les entreprises et administrations"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Adopter une écocontribution kilométrique renforcée sur les billets d’avions",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Adopter une écocontribution kilométrique renforcée.",
+                        "code": "SD-E1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-les-effets-nefastes-du-transport-aerien/"
+                    },
+                    {
+                        "title": "Mettre fin aux vols intérieurs quand une alternative de moins de quatre heures existe",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Organiser progressivement la fin du trafic aérien sur les vols intérieurs d’ici à 2025, uniquement sur les lignes où il existe une alternative bas carbone satisfaisante en prix et en temps (sur un trajet de moins de quatre heures).",
+                        "code": "SD-E2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-les-effets-nefastes-du-transport-aerien/"
+                    },
+                    {
+                        "title": "Interdire la construction et l’agrandissement d’aéroports",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Interdire la construction de nouveaux aéroports et l’extension des aéroports existants.",
+                        "code": "SD-E3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-les-effets-nefastes-du-transport-aerien/"
+                    },
+                    {
+                        "title": "Taxer davantage le carburant pour l'aviation de loisir",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Taxer davantage le carburant pour l’aviation de loisir.",
+                        "code": "SD-E4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-les-effets-nefastes-du-transport-aerien/"
+                    },
+                    {
+                        "title": "Promouvoir une écocontribution européenne sur les vols internationaux",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Promouvoir l’idée d’une écocontribution européenne.",
+                        "code": "SD-E5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-les-effets-nefastes-du-transport-aerien/"
+                    },
+                    {
+                        "title": "Imposer la compensation intégrale des émissions des vols intérieurs aux compagnies aériennes",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Rendre obligatoire la compensation intégrale des émissions de CO2 de l’ensemble des vols intérieurs des avions dès 2021 (compensation d'au moins 40 %, progressivement relevée jusqu'à 100 % en 2029).\n\nÀ partir de 2024, les compagnies qui refusent d’appliquer les 60 % de compensation pourront se voir retirer le droit d’exploitation des lignes DOM-TOM.",
+                        "code": "SD-E6",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-les-effets-nefastes-du-transport-aerien/"
+                    },
+                    {
+                        "title": "Soutenir la recherche et le développement des biocarburants pour les avions",
+                        "target": "Le secteur privé",
+                        "method": "Effort financier",
+                        "impact": "Moyen",
+                        "summary": "Soutenir, à moyen terme, la recherche et le développement dans le développement d’une filière biocarburants pour les avions.",
+                        "code": "SD-E7",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-les-effets-nefastes-du-transport-aerien/"
+                    }
+                ],
+                "name": "Transport aérien"
+            }
+        ],
+        "name": "Les transports"
+    },
+    {
+        "families": [
+            {
+                "proposals": [
+                    {
+                        "title": "Renforcer les obligations de rénovation thermique des logements et bâtiments",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Contraindre les propriétaires occupants, les bailleurs et l’Etat à rénover de manière globale.",
+                        "code": "SL1.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/rendre-obligatoire-la-renovation-energetique-globale-des-batiments-dici-2040/"
+                    },
+                    {
+                        "title": "Interdire les chaudières au fioul et à charbon d’ici 2030 (et interdire immédiatement leur installation dans le neuf et lors des rénovations globales)",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Obliger le changement des chaudières au fioul et à charbon d’ici à 2030 dans les bâtiments neufs et rénovés.",
+                        "code": "SL1.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/rendre-obligatoire-la-renovation-energetique-globale-des-batiments-dici-2040/"
+                    },
+                    {
+                        "title": "Créer un réseau harmonisé de guichets uniques pour la rénovation thermique",
+                        "target": "L'Etat",
+                        "method": "Pédagogie et information",
+                        "impact": "Fort",
+                        "summary": "Déployer un réseau harmonisé de guichets uniques.",
+                        "code": "SL1.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/rendre-obligatoire-la-renovation-energetique-globale-des-batiments-dici-2040/"
+                    },
+                    {
+                        "title": "Renforcer les aides publiques et privées à la rénovation thermique",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Système progressif d’aides à la rénovation, avec prêts et subventions pour les plus démunis.",
+                        "code": "SL1.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/rendre-obligatoire-la-renovation-energetique-globale-des-batiments-dici-2040/"
+                    },
+                    {
+                        "title": "Améliorer la formation des professionnels du bâtiment en matière de rénovation",
+                        "target": "Le secteur privé",
+                        "method": "Pédagogie et information",
+                        "impact": "Fort",
+                        "summary": "Former les professionnels du bâtiment pour répondre à la demande de rénovation globale.",
+                        "code": "SL1.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/rendre-obligatoire-la-renovation-energetique-globale-des-batiments-dici-2040/"
+                    }
+                ],
+                "name": "Rénovation des bâtiments"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Mesures contraignantes d’économie d’énergie pour les bâtiments publics, espaces extérieurs, magasins, etc. (interdiction du chauffage extérieur, limitation de l’éclairage la nuit, etc.)",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Contraindre par des mesures fortes les espaces publics et le tertiaire (bâtiments publics, espaces extérieurs, magasins…) à réduire leur consommation d’énergie :\n\n- interdiction de chauffer les espaces publics extérieurs quelle que soit la surface ;\n- modulation de l’éclairage public en favorisant l’éclairage avec des dispositifs à basse consommation et des détecteurs de mouvements permettant l’extinction des lumières lorsqu’il n’y a personne dans la rue ;\n- éteindre l’éclairage public la nuit hors agglomération dense ;\n- interdiction d’éclairage des enseignes, vitrines de magasin et bureaux la nuit, à partir de l’horaire de fermeture des magasins ;\n- fermeture obligatoire des portes de tous les bâtiments ouverts au public.",
+                        "code": "SL2.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-de-maniere-significative-la-consommation-denergie-dans-les-lieux-publics-prives-et-les-industries/"
+                    },
+                    {
+                        "title": "Renforcer les campagnes d’information pour inciter les particuliers à réduire leur consommation d'énergie",
+                        "target": "Les individus",
+                        "method": "Pédagogie et information",
+                        "impact": "Moyen",
+                        "summary": "Inciter les particuliers à réduire leur consommation d'énergie en développant des campagnes d’information massives et régulières pour promouvoir les gestes écoresponsables, faire connaitre les prêts financiers à taux préférentiel existants (notamment ceux qui permettent l’installation de matériel de production d’énergie à taux bas) et développer les contrats volontaires de consommation conclus avec le fournisseur d’énergie.",
+                        "code": "SL2.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-de-maniere-significative-la-consommation-denergie-dans-les-lieux-publics-prives-et-les-industries/"
+                    },
+                    {
+                        "title": "Limiter le recours au chauffage et à la climatisation (température moyenne de 19 degrés en journée, climatisation interdite sous les 30 degrés)",
+                        "target": "Les individus",
+                        "method": "Normes et contraintes",
+                        "impact": "Moyen",
+                        "summary": "Inciter à limiter le recours au chauffage et à la climatisation dans les logements, les espaces publics et ceux ouverts au public ainsi que les bâtiments tertiaires :\n\n- température moyenne maximale de 19 degrés la journée, et température plus faible la nuit ;\n- renoncer à la climatisation dans les locaux publics, bâtiments tertiaires, commerces (sauf commerces de bouche ou alimentaires), les logements privés, quand la température n’excède pas 30 degrés en respectant un écart maximal de 10 degrés par rapport à la température extérieure. Pour le milieu hospitalier, les Ehpad, les cabinets médicaux dans leur ensemble ou établissements similaires, les structures d’accueil pour la petite enfance, laisser à la convenance et au besoin des occupants, des professionnels de santé et membres du personnel.",
+                        "code": "SL2.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/limiter-de-maniere-significative-la-consommation-denergie-dans-les-lieux-publics-prives-et-les-industries/"
+                    }
+                ],
+                "name": "Consommation d'énergie"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Définir et restreindre le nombre maximum d'hectares constructibles par commune",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Définir une enveloppe restrictive du nombre d'hectares maximum pouvant être artificialisés réduisant par 2 l’artificialisation des sols et rendre les PLUI et PLU conformes aux SCoT (et non plus compatibles).",
+                        "code": "SL3.1",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Contrôler et sanctionner l'étalement urbain non autorisé",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Renforcer les contrôles du respect des obligations de protection des espaces et de limitation de consommation des terres non urbanisés, sanctionner pénalement les manquements.",
+                        "code": "SL3.10",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Sensibiliser à l'importance de la ville compacte et repenser l'habitat collectif",
+                        "target": "",
+                        "method": "Pédagogie et information",
+                        "impact": "Fort",
+                        "summary": "Sensibiliser à l’importance et l’intérêt de la ville plus compacte, et construire une nouvelle culture de l’habitat collectif.",
+                        "code": "SL3.11",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Financer les rénovations de logements des petites communes",
+                        "target": "Les individus",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Financer les rénovations des logements dans les petites communes.",
+                        "code": "SL3.12",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Rendre les centres-villes plus attractifs (commerces, écoles, espaces verts)",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Rendre les centres plus attractifs par la revitalisation des commerces et le maintien des écoles en milieu rural.",
+                        "code": "SL3.13",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Interdire toute artificialisation des terres tant que la réhabilitation de l’existant est possible",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Interdire toute artificialisation des terres tant que des réhabilitations sont possibles ou que des friches commerciales, artisanales ou industrielles sont disponibles dans l’enveloppe urbaine existante.",
+                        "code": "SL3.2",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Stopper les aménagements de zones commerciales périurbaines",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Prendre immédiatement des mesures coercitives pour stopper les aménagements de zones commerciales périurbaines très consommatrices d’espace.",
+                        "code": "SL3.3",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Faciliter les changements d’usage des terrains non occupés mais déjà artificialisés",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Faciliter les changements d’usage des terrains artificialisés non occupés.",
+                        "code": "SL3.5",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Faciliter les réquisitions de logements et bureaux vacants",
+                        "target": "Le secteur privé",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Faciliter les réquisitions de logements et bureaux vacants.",
+                        "code": "SL3.6",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Faciliter les reprises et réhabilitations des friches",
+                        "target": "L'Etat",
+                        "method": "Effort financier",
+                        "impact": "Fort",
+                        "summary": "Faciliter les reprises et réhabilitations des friches, notamment par la possibilité pour les communes d’exproprier les friches délaissées depuis 10 ans ou plus.",
+                        "code": "SL3.7",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Evaluer le potentiel de réversibilité de tout bâtiment avant démolition",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Évaluer le potentiel de réversibilité avant toute démolition de bâtiment. Évaluer le potentiel de réversibilité de toutes constructions nouvelles via un volet réversibilité/seconde vie lors du dépôt d’un permis de construire (avec notamment une deuxième alternative de plan d’usage et un paragraphe argumenté).",
+                        "code": "SL3.8",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    },
+                    {
+                        "title": "Permettre la construction d’immeubles collectifs dans les zones pavillonnaires",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Permettre la construction d’immeubles collectifs dans les zones pavillonnaires.",
+                        "code": "SL3.9",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    }
+                ],
+                "name": "Artificialisation des sols"
+            },
+            {
+                "proposals": [
+                    {
+                        "title": "Renforcer la protection des espaces naturels agricoles périurbains et les forêts",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "impact": "Fort",
+                        "summary": "Protéger fermement et définitivement les espaces naturels, les espaces agricoles périurbains et les forêts périurbaines. S’assurer d’une gestion durable de l’ensemble des forêts privées et publiques. S’assurer de la création de ceintures maraichères autour des pôles.",
+                        "code": "SL3.4",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/lutter-contre-lartificialisation-des-sols-et-letalement-urbain-en-rendant-attractive-la-vie-dans-les-villes-et-les-villages/"
+                    }
+                ],
+                "name": "Le logement"
+            }
+        ],
+        "name": "Le logement"
+    },
+    {
+        "families": [
+            {
+                "proposals": [
+                    {
+                        "title": "Modifier le préambule de la Constitution",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "summary": "Ajouter un alinéa au préambule de la Constitution de 1958 ainsi rédigé : _« La conciliation des droits, libertés et principes qui en résultent ne saurait compromettre la préservation de l’environnement, patrimoine commun de l’humanité. »_",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/modification-du-preambule-de-la-constitution/"
+                    },
+                    {
+                        "title": "Modifier l’article 1erde la Constitution",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "summary": "Compléter l’article 1erde la Constitution avec la mention : _« La République garantit la préservation de la biodiversité, de l’environnement et lutte contre le dérèglement climatique. »_",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/modification-de-larticle-1er-de-la-constitution/"
+                    },
+                    {
+                        "title": "Transformer le CESE en chambre de la participation citoyenne",
+                        "target": "L'Etat",
+                        "method": "Pédagogie et information",
+                        "summary": "Transformer le Conseil économique, social et environnemental (CESE) en _« chambre de la participation citoyenne »_ (CPC).\n\nRevoir le mode de nomination afin qu’une partie des membres de cette CPC soit issue d’un tirage au sort (soit la moitié, soit 15 %-20 %), l’autre partie continuant à émaner de la _« société civile »_.\n\nSystématiser la consultation de la CPC lors de la rédaction de projets ou propositions de loi. L’avis ferait l’objet d’un débat public au Parlement. Rendre plus contraignante la prise en compte de l’avis du CESE tout en maintenant sa fonction consultative.",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/reforme-du-conseil-economique-social-et-environnemental-axe-de-reflexion/"
+                    },
+                    {
+                        "title": "Créer un poste de défenseur de l’environnement",
+                        "target": "L'Etat",
+                        "method": "Normes et contraintes",
+                        "summary": "- Faciliter l’accès des citoyens aux voies de recours contre les atteintes à l’environnement (information, accès, rapidité de traitement, conditions de recevabilité) ;\n- étendre le préjudice écologique à l’action de l’administration ;\n- augmenter le niveau des sanctions financières et pénales à l’encontre des atteintes à l’environnement ;\n- renforcer la transparence et la précision des rapports d’évaluation a priori des lois dans le domaine environnemental. Mettre en place une évaluation a posteriori plus efficace et contraignante. Rendre accessible au public l’ensemble de ces rapports ;\n- renforcer la coordination entre les différentes instances de contrôle existantes (les instances de contrôle conçues par les membres de la convention devront être efficacement intégrées à cet écosystème : parquet environnemental, politique environnementale, haute autorité sur les limites planétaires) et accroître l’efficacité du corps des inspecteurs de l’environnement, notamment en augmentant leur effectif ;\n- intégrer à la Constitution un poste de Défenseur de l’environnement indépendant par rapport au gouvernement, sur le modèle du Défenseur des droits, que les citoyens puissent saisir facilement ;\n- Intégrer les citoyens aux instances de contrôle.",
+                        "url": "https://propositions.conventioncitoyennepourleclimat.fr/objectif/renforcer-le-controle-des-politiques-environnementales-axe-de-reflexion/"
+                    }
+                ],
+                "name": ""
+            }
+        ],
+        "name": "La Constitution"
+    }
+]
